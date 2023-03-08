@@ -1,4 +1,4 @@
-# To-do-app (CRUD) sendo feito na aula de 'frameworks para web' da faculdade  e introduzindo o framework angular e um pouco de Typescript na minha rotina.
+# To-do-app (CRUD) sendo feito na aula de 'frameworks para web' da faculdade  e introduzindo o framework Angular e um pouco de Typescript na minha rotina.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
